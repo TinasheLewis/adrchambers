@@ -1,0 +1,66 @@
+/*
+Print Styles
+*/
+/* Sguba Getaway LESS Variables */
+/* Former: ff115c */
+/* Light 300 300i, Regular 400 400i, Bold 700 700i */
+/* Regular 400, Bold 700 */
+/* Regular 400, Bold 700 */
+/* Header
+================================================== */
+body {
+  font-family: 'Lato', sans-serif;
+  color: #000;
+}
+header {
+  display: none;
+}
+.tophat {
+  display: none;
+}
+/* Search
+================================================== */
+.overlay {
+  display: none;
+}
+/* Sidebar
+================================================== */
+.sidebar {
+  padding: 0px 0;
+}
+.sidebar.neutral-specifics.specialties ul.neutral-specialties-list {
+  pointer-events: none;
+}
+/* Content
+================================================== */
+.content {
+  padding: 0px 0;
+}
+/* Neutral Single
+================================================== */
+.neutral-specifics .neutral-photo img {
+  width: 250px;
+  height: auto;
+  margin: 0 0 20px 0;
+}
+.neutral-specifics .neutral-specific-header {
+  color: #000;
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  margin: 5px 0px 0px 0px;
+  font-weight: bold;
+}
+.availability-calendar {
+  display: none;
+}
+.post-title {
+  padding: 0px 0 20px 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+/* Footer
+================================================== */
+.footer {
+  display: none;
+}
